@@ -54,30 +54,43 @@ Here’s how the tool looks in action:
 
 ---
 
-## Installation
-Make sure you have **Python 3.10+** installed.
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-````
+Ah! Got it. We can make the **Installation & Usage** section complete, including **Git clone instructions**, dependencies, and running the tool. Here’s the improved version of that section:
 
 ---
 
-## Usage
+## Installation & Usage
 
-Run the tool:
+1. **Clone the repository**:
+
+```bash
+git clone https://github.com/Asura-Lord/Log-Analyzer.git
+cd Log-Analyzer
+```
+
+2. **Ensure Python 3.10+ is installed**.
+
+3. **Install dependencies**:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. **Run the tool**:
 
 ```bash
 python main.py
 ```
 
-Follow the prompts:
+5. **Follow the prompts**:
 
-* Enter the path to your log file
+* Enter the path to your log file (e.g., `sample_log.txt`)
 * View detected suspicious IPs and summary report
 * Visual charts (if enabled) will display top offenders and trends
+
+---
+
+
+
 
 ---
 
