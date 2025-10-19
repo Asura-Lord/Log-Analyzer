@@ -1,0 +1,9 @@
+Oct 19 10:41:23 ubuntu sshd[1245]: Failed password for root from 192.168.1.15 port 45432 ssh2
+Oct 19 10:41:25 ubuntu sshd[1246]: Failed password for root from 192.168.1.15 port 45433 ssh2
+Oct 19 10:41:28 ubuntu sshd[1247]: Failed password for root from 192.168.1.15 port 45434 ssh2
+Oct 19 10:42:12 ubuntu sshd[1248]: Failed password for admin from 192.168.1.20 port 45435 ssh2
+Oct 19 10:42:18 ubuntu sshd[1249]: Failed password for admin from 192.168.1.15 port 45436 ssh2
+Oct 19 10:42:25 ubuntu sshd[1250]: Failed password for admin from 192.168.1.15 port 45437 ssh2
+Oct 19 10:42:30 ubuntu sshd[1251]: Failed password for admin from 192.168.1.15 port 45438 ssh2
+Oct 19 10:42:36 ubuntu sshd[1252]: Failed password for admin from 192.168.1.15 port 45439 ssh2
+Oct 19 10:42:41 ubuntu sshd[1253]: Failed password for admin from 192.168.1.20 port 45440 ssh2
