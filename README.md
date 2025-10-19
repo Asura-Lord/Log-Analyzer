@@ -42,11 +42,12 @@ Here’s how the tool looks in action:
 
 **Visual Chart 1 Example:**  
 
-<img width="1035" height="421" alt="Screenshot 2025-10-19 134102" src="https://github.com/user-attachments/assets/04c3b074-9a48-4995-a157-8a31df37cfbf" />
+<img width="991" height="708" alt="Screenshot 2025-10-19 134025" src="https://github.com/user-attachments/assets/2be85019-de99-4219-b28d-11a69a6a3f75" />
 
 
 **Visual Chart 2 Example:**  
-<img width="991" height="708" alt="Screenshot 2025-10-19 134025" src="https://github.com/user-attachments/assets/2be85019-de99-4219-b28d-11a69a6a3f75" />
+
+<img width="1249" height="573" alt="Screenshot 2025-10-19 134034" src="https://github.com/user-attachments/assets/d342114f-8fc8-4bfc-9c1a-69142554edb0" />
 
 
 
